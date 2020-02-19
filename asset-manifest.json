@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OpenMarketAssessment/static/css/main.89bd85ae.chunk.css",
+    "main.js": "/OpenMarketAssessment/static/js/main.05efb9c6.chunk.js",
+    "main.js.map": "/OpenMarketAssessment/static/js/main.05efb9c6.chunk.js.map",
+    "runtime-main.js": "/OpenMarketAssessment/static/js/runtime-main.08c073ee.js",
+    "runtime-main.js.map": "/OpenMarketAssessment/static/js/runtime-main.08c073ee.js.map",
+    "static/js/2.1535597a.chunk.js": "/OpenMarketAssessment/static/js/2.1535597a.chunk.js",
+    "static/js/2.1535597a.chunk.js.map": "/OpenMarketAssessment/static/js/2.1535597a.chunk.js.map",
+    "index.html": "/OpenMarketAssessment/index.html",
+    "precache-manifest.003684713082c9f2406a32b366e3ed31.js": "/OpenMarketAssessment/precache-manifest.003684713082c9f2406a32b366e3ed31.js",
+    "service-worker.js": "/OpenMarketAssessment/service-worker.js",
+    "static/css/main.89bd85ae.chunk.css.map": "/OpenMarketAssessment/static/css/main.89bd85ae.chunk.css.map",
+    "static/js/2.1535597a.chunk.js.LICENSE.txt": "/OpenMarketAssessment/static/js/2.1535597a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/OpenMarketAssessment/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08c073ee.js",
+    "static/js/2.1535597a.chunk.js",
+    "static/css/main.89bd85ae.chunk.css",
+    "static/js/main.05efb9c6.chunk.js"
+  ]
+}
