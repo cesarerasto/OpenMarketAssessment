@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/OpenMarketAssessment/precache-manifest.8a733440329176f6b44563edf32ff517.js"
+  "/OpenMarketAssessment/precache-manifest.5f56b5046af38a9ec730c1725566b88c.js"
 );
 
 self.addEventListener('message', (event) => {
