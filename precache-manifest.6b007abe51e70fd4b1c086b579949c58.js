@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b53da29be61f467f70c3f4ba25eb1b24",
+    "revision": "4bcd966c9423affe436a9ade1cedb2b3",
     "url": "/OpenMarketAssessment/index.html"
   },
   {
-    "revision": "b91750da5969652ad362",
+    "revision": "a29f9b3b1433d6a1da8d",
     "url": "/OpenMarketAssessment/static/css/main.89bd85ae.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/OpenMarketAssessment/static/js/2.1535597a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b91750da5969652ad362",
-    "url": "/OpenMarketAssessment/static/js/main.05efb9c6.chunk.js"
+    "revision": "a29f9b3b1433d6a1da8d",
+    "url": "/OpenMarketAssessment/static/js/main.895deadf.chunk.js"
   },
   {
     "revision": "603fceacf6b6507e697b",
